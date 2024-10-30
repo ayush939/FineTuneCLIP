@@ -1,0 +1,352 @@
+works
+Model loaded
+Unexpected keys: ['lora_text_projection']
+ 
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 0.6 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 23.8 GB
+739072
+1
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+2
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+3
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+4
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+5
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+6
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+7
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+8
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+9
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+10
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+11
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+12
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+13
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+14
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+15
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+16
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+17
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+18
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+19
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+20
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+21
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+22
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+23
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+24
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+25
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+26
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+27
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+28
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+29
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+30
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+31
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+32
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+33
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+34
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+35
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+36
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+37
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+38
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+39
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+40
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+41
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+42
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+43
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+44
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+45
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+46
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+47
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+48
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+49
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([0], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+50
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([1], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+51
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([1], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+52
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([1], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+53
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([1], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+54
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([1], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+55
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([1], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+56
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([1], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+57
+torch.Size([1, 3, 224, 224])
+Maximum GPU memory allocated: 24.3 GB
+torch.Size([1, 1000]) torch.Size([1]) tensor([1], device='cuda:0')
+Maximum GPU memory allocated: 24.3 GB
+739072
+58
