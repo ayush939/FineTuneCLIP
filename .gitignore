@@ -1,6 +1,5 @@
 *.pt
 logs/*
-*.ipynb
 *.pyc
 __pycache__/
 *.py[cod]
